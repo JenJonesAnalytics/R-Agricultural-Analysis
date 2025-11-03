@@ -2,7 +2,7 @@ Agricultural Yield Analysis in R & SQL
 
 ➡️ View the Full Interactive Report (Recommended) ⬅️
 
-The link above is the primary, "pretty" HTML version of this report, hosted on GitHub Pages.
+The link above is the primary, interactive HTML version of this report, hosted on GitHub Pages.
 
 For browsing directly on GitHub, you can also see the simple Markdown version.
 
@@ -40,7 +40,7 @@ SQL: Used within R via sqldf for exploratory data analysis.
 
 Files
 
-Agribusiness_Report_HTML.html: The "pretty" interactive report (linked above).
+Agribusiness_Report_HTML.html: The formatted, interactive report (linked above).
 
 Agribusiness_Report_MD.md: The basic GitHub-flavored markdown report.
 
