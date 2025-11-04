@@ -44,6 +44,6 @@ Agribusiness_Report_HTML.html: The formatted, interactive report (linked above).
 
 Agribusiness_Report_MD.md: The basic GitHub-flavored markdown report.
 
-Agribusiness_Report_HTML.Rmd: The R Markdown source code for the main report.
+Agribusiness_Report.Rmd: The R Markdown source code for the main report.
 
 agriculture_dataset.csv: The raw data used for the analysis.
