@@ -1,7 +1,6 @@
 Agricultural Yield Analysis in R & SQL
 
-➡️ View the Full Interactive Report (Recommended) ⬅️
-
+###➡️ [View the Full Interactive Report (Recommended)](https://jenjonesanalytics.github.io/R-Agricultural-Analysis/Agribusiness_Report_HTML.html) ⬅️
 The link above is the primary, interactive HTML version of this report, hosted on GitHub Pages.
 
 For browsing directly on GitHub, you can also see the simple Markdown version.
